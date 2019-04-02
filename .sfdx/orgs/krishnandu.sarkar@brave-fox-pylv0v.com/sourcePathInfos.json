@@ -1,0 +1,812 @@
+[
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554210247631,
+            "changeTime": 1554210247631,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554210247631,
+            "changeTime": 1554210247631,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554213089908,
+            "changeTime": 1554213089908,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554215088593,
+            "changeTime": 1554215088593,
+            "contentHash": "9219307fd8fa066479d9b264b45d3c5c5ed60b03",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554215407894,
+            "changeTime": 1554215407894,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1554214917915,
+            "changeTime": 1554214917915,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 583,
+            "modifiedTime": 1554214931338,
+            "changeTime": 1554214931338,
+            "contentHash": "44d071891870ff1aec019c00d22f991063541740",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1554215407886,
+            "changeTime": 1554215407886,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1554215407892,
+            "changeTime": 1554215407892,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1554214917916,
+            "changeTime": 1554214917916,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1554214917914,
+            "changeTime": 1554214917914,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1397,
+            "modifiedTime": 1554214938282,
+            "changeTime": 1554214938282,
+            "contentHash": "dfcfc9e349672e9d93db610da040f856db5bf1ad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1554215407894,
+            "changeTime": 1554215407894,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1554215407888,
+            "changeTime": 1554215407888,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554215407916,
+            "changeTime": 1554215407916,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1554215088610,
+            "changeTime": 1554215088610,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 811,
+            "modifiedTime": 1554215100282,
+            "changeTime": 1554215100282,
+            "contentHash": "ee9c7310198d7d75604f7aef7e1b02e82896dc19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1554215407907,
+            "changeTime": 1554215407907,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1554215407915,
+            "changeTime": 1554215407915,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1554215088611,
+            "changeTime": 1554215088611,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1554215088610,
+            "changeTime": 1554215088610,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1554215407913,
+            "changeTime": 1554215407913,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1554215407917,
+            "changeTime": 1554215407917,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1554215407910,
+            "changeTime": 1554215407910,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554215407934,
+            "changeTime": 1554215407934,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1554215048104,
+            "changeTime": 1554215048104,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 302,
+            "modifiedTime": 1554215062267,
+            "changeTime": 1554215062267,
+            "contentHash": "af0eaa6e32015e94fc0d3eabbd6562db3cd9e9bb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1554215407921,
+            "changeTime": 1554215407921,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1554215407932,
+            "changeTime": 1554215407932,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1554215048105,
+            "changeTime": 1554215048105,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1554215048104,
+            "changeTime": 1554215048104,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 865,
+            "modifiedTime": 1554215069783,
+            "changeTime": 1554215069783,
+            "contentHash": "6a4e7371aa2ed61f5390f040a20f8cd6db9b0ee8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1554215407934,
+            "changeTime": 1554215407934,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1554215407923,
+            "changeTime": 1554215407923,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554215407903,
+            "changeTime": 1554215407903,
+            "contentHash": "6227727dd56c9132b79b4e908af55410217dd161",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1554214759435,
+            "changeTime": 1554214759435,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 717,
+            "modifiedTime": 1554214844493,
+            "changeTime": 1554214844493,
+            "contentHash": "1a34258e1b4a969ddcb36bd18709bd26b7e40252",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1554215407898,
+            "changeTime": 1554215407898,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.css",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1554215407901,
+            "changeTime": 1554215407901,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.design",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1554214759436,
+            "changeTime": 1554214759436,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.svg",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearch.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1554214759435,
+            "changeTime": 1554214759435,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchController.js",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 476,
+            "modifiedTime": 1554214856229,
+            "changeTime": 1554214856229,
+            "contentHash": "ef55b4f213a795c05e2e5c68e573434a10fcb2ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 575,
+            "modifiedTime": 1554214863506,
+            "changeTime": 1554214863506,
+            "contentHash": "b98370d856981bf5ebd68b5b41729b5aa46c5830",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1554215407903,
+            "changeTime": 1554215407903,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountsLoaded",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554215407883,
+            "changeTime": 1554215407883,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1554215407883,
+            "changeTime": 1554215407883,
+            "contentHash": "5feb8446fe3e6f29b79276531f7f6d792a5485de",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 224,
+            "modifiedTime": 1554215407879,
+            "changeTime": 1554215407879,
+            "contentHash": "0fece5ab0b41d903ea7483c5b767a09021bc64bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554214611281,
+            "changeTime": 1554214611281,
+            "contentHash": "2285fb9edfed4513e2f62c4ae6b1e479cb22eea1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 184,
+            "modifiedTime": 1554213597930,
+            "changeTime": 1554213597930,
+            "contentHash": "7e791c0c76e8a87e20ad0c0c4826558aad16cb92",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1554215407942,
+            "changeTime": 1554215407942,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\classes\\AccountSearchController.cls",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\classes\\AccountSearchController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 685,
+            "modifiedTime": 1554214617232,
+            "changeTime": 1554214617232,
+            "contentHash": "ca2a5a7f1d7a23bb78d288586fd8adc2e0a30422",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\classes\\AccountSearchController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\classes\\AccountSearchController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1554215407937,
+            "changeTime": 1554215407937,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554210266685,
+            "changeTime": 1554210266685,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "G:\\Tutorials\\SFDX\\VSCodeQuickstart",
+        {
+            "state": "n",
+            "sourcePath": "G:\\Tutorials\\SFDX\\VSCodeQuickstart",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554210266695,
+            "changeTime": 1554210266695,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
